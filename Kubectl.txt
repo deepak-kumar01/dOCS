@@ -2,25 +2,20 @@ mongodb://eplusreader:ep1usreader2023db2@172.25.207.234:27017/?maxPoolSize=20&w=
 mongodb://ngdbowner:Kuluru321@172.25.207.234:27017/?maxPoolSize=20&w=majority
 
  
-To enter inside a POD:
-kubectl exec -it my-pod -- /bin/bash
-This will open a bash shell inside the specified pod, allowing you to interact with it as
 
+httppubdataetl
 
-docker ps --- show all running docker container
-docker ps -a --- show all terminated docker container
-docker stop docker_id --- to stop the docker of mentioned id
-docker rm docker_id --- to remove terminated docker resources
-docker rm -f docker_id --- to remove terminated docker resources forcefully
-docker run nginx -- it will run nginix at defvalut port 80, accessed by 123.45.67.78/
-docker run -p 8080:80 nginx -- now it will bind nginx 80 port to 8080, now can be accessed by 123.45.67.78:8080
-docker run -d -p 8080:80 nginx -- to run nginix in background
-docker exec -it docker_id bash --- to open bash in a particular docker image
+ 
 
+ngeginvrsrvdataetl
 
+ 
+
+ 
 
 kubectl get pods -n ng-test-env---- get service status
 
+ 
 
 kubectl get ingress =--- host URl(default)
 
@@ -53,21 +48,8 @@ kubectl logs -l app=ng-enrich-enrichplus-adapter-etl --follow -n ng-etl-env
 
  
 
-
 kubectl logs ng-staffing-nomination-service-etl-85958bcfd-s9f6k --tail=3000 -n ng-etl-env
 
  
 
 kubectl logs -l app=resource-plan-v2-load --tail=2000 -n ng-etl-env
-
-
-resource-plan-v2-uat1-56d66dd8bb-29jx6                     1/1     Running   0                21h
-resource-plan-v2-uat1-56d66dd8bb-8wsp7                     1/1     Running   0                21h
-resource-plan-v2-uat1-56d66dd8bb-b6cwp                     1/1     Running   0                21h
-resource-plan-v2-uat1-56d66dd8bb-kgld2 
-
-
-kubectl logs graphql-v2-uat1-f856f87db-4zlth --tail=1000 -n ng-uat1-env
-
-
-kubectl logs -l app=resource-plan-v2-uat1 -f

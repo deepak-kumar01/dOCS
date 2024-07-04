@@ -1,0 +1,11 @@
+A couple of instances where I played a key role, there was this critical project I took on with a client (FIL) for the Sonata team, focusing on a currency conversion feature. The project was quite intense, with tight timelines and a demand for top-notch quality. Despite facing some initial challenges, I personally developed and implemented a more efficient workflow end to end that not only ensured we met the deadline but also significantly elevated the overall quality of the project.
+
+In a different situation, at the beginning of my tenure with the team, I noticed the absence of an automated process for settling deals related to stocks and mutual funds particularly when orders faced issues or system overload. The existing approach heavily depended on manual efforts, leading to inefficiencies and errors. So, I took the lead in developing an automated process, effectively reducing errors and expediting the completion time. The outcome was a remarkable transformation in the workflow.
+
+Throughout my collaboration with the Enrich Plus team, I dived into various features. I took charge of implementing the fulfillment date and confidence aspects on the nominations screen. Additionally, I implemented a feature for updating product codes based on lead and staffing needs.
+Expanding my scope, I worked on the Delivery Dashboard, all aspects of demands, timeline filters, Allocations, ICA demands, and implementation of the supply page grid data.
+In the mix of it all, I played a pivotal role in addressing bug fixes, fine-tuning code for optimization, and resolving data inconsistencies. These efforts collectively had a positive impact on the overall business outcomes.
+
+I love sharing my knowledge. Whenever the team needs some logical support, I'm there with my experience. I'm all for maintaining a continuous learning atmosphere, and It's making a huge difference – less time spent on fixing problems and a noticeable improvement in the team's performance.
+
+And the exciting thing was the positive feedback I've received from clients and internal stakeholders. By being proactive and solution-oriented, I managed to streamline the deals-settling process, boosting client satisfaction ratings. It's been one of the most rewarding aspects of my role.
