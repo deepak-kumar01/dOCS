@@ -1,0 +1,98 @@
+
+volatile
+
+atomic
+
+runnable
+
+callable
+
+synchronisation
+
+Deadlock
+
+locking
+
+	ReentrantLock
+
+	readWriteLock
+
+	stampedLock
+
+	synchronisation Block
+
+Executors
+
+	executorInterface
+
+	executorserviceInterfae
+
+	threadpoolExecutor
+
+	Executors clas
+
+	submit() aur shutdown()
+
+Thread Barriers
+
+	Cyclic Barriers
+
+	Countdown Latch
+
+	phaser
+
+	Exchanger
+
+
+tiny url
+
+whatsapp/instagram/fb(CNN, CDN network(push CDN, pull CDNs, leader election)
+
+splitwise
+
+parking lot design
+
+reccomndation system
+
+chess
+
+messagingqueue(leader election)
+
+notifationaggreagtor
+ 
+CAP theorem
+
+SAGA pattern
+
+solid principle
+
+12app-factor
+
+horizontal, vertical scaling
+ 
+load balancing
+
+failure resilence
+
+latency, throughput, availiblity
+
+sharding, partioning
+
+caching(caching aside, write-through, write-behind(back), refresh ahead, )
+
+consistency(weak,strong, eventual)
+
+type ahead searching
+ 
+ 
+Distributed concept
+
+Hetrogentity
+
+openenss
+
+security
+
+scaliblity
+
+failure handling
