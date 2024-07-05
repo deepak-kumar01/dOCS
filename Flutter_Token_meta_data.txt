@@ -1,0 +1,6 @@
+Store: C:\Users\deekumar46\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B3:1D:6D:AB:DF:B2:94:CC:90:88:75:9C:B2:66:E8:49
+SHA1: 5C:18:67:F8:06:F9:91:4E:E9:41:66:C7:F4:D5:6F:E6:18:96:0B:53
+SHA-256: 05:2D:A8:BA:BE:AA:28:99:3A:81:6D:1C:91:38:09:78:A3:6A:2F:92:E7:ED:13:81:8C:20:86:7F:65:BD:08:4C
+Valid until: Tuesday, 27 January, 2054
